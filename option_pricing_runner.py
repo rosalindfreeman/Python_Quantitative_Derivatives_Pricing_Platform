@@ -1,7 +1,7 @@
 """
 Option Pricing Runner
 
-Runs all professional derivatives pricing scripts.
+Runs all derivatives pricing scripts.
 """
 
 import subprocess
