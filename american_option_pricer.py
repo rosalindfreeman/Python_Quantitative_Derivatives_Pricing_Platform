@@ -7,7 +7,6 @@ Professional Python implementation of:
 - American call pricing using finite difference methods
 - Delta and initial hedging cash calculation
 
-No external packages are required.
 """
 
 import math
