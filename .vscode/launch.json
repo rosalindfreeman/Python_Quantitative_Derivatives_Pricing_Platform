@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run American Option Pricer",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/american_option_pricer.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Run Asian Option Monte Carlo Pricer",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/asian_option_monte_carlo_pricer.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Run Asian Option Box-Muller Pricer",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/asian_option_box_muller_pricer.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Run Full Option Pricing Platform",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/option_pricing_runner.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
