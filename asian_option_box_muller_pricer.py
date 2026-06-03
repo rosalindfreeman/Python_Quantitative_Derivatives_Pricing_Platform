@@ -1,10 +1,9 @@
 """
 Asian Option Box-Muller Pricer
 
-Professional Python implementation of Asian option pricing using
+Python implementation of Asian option pricing using
 Box-Muller Gaussian random number generation.
 
-No external packages are required.
 """
 
 import math
