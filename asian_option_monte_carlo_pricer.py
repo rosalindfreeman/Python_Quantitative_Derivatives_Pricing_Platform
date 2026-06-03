@@ -1,9 +1,8 @@
 """
 Asian Option Monte Carlo Pricer
 
-Professional Python implementation of Asian option pricing using Monte Carlo simulation.
+Python implementation of Asian option pricing using Monte Carlo simulation.
 
-No external packages are required.
 """
 
 import math
